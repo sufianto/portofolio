@@ -105,7 +105,7 @@ include 'koneksi.php';
         <div class="row text-justify pt-4 justify-content-center">
           <div class="col-md-5 fs-5 mb-4"><p><?php echo $prdk['isi1'] ?></p></div>
 
-          <!-- <div class="col-md-5 fs-5"><p> <?php echo $prdk['isi2'] ?> </p></div> -->
+          <div class="col-md-5 fs-5"><p> <?php echo $prdk['isi2'] ?> </p></div>
         </div>
   
       </div>
